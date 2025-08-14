@@ -9,7 +9,7 @@ spec:
       app: java
   template:
     metadata:
-      labels: java
+      labels: 
         app: java
     spec:
       containers:
